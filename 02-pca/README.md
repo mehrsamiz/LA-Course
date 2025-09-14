@@ -8,8 +8,8 @@ Cumulative variance plot.
 2D scatter plot of data in principal component space.
 Comparison between original and reduced data.
 
-![output plot](docs/pca2.png)
-![output plot](docs/pca2.png)
+![output plot](https://raw.githubusercontent.com/mehrsamiz/LA-Course/main/docs/pca2.png)
+![output plot](https://raw.githubusercontent.com/mehrsamiz/LA-Course/main/docs/pca1.png)
 
 ##  Run
 ```bash
