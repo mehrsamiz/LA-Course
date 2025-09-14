@@ -1,6 +1,6 @@
 #  Linear Algebra Exercises
 
-This repository contains my exercises and mini-projects for the **Linear Algebra course**, implemented in Python.  
+This repository contains my exercises for the **Linear Algebra course**, implemented in Python.  
 Each folder has its own code, explanation, and plots.
 
 ---
