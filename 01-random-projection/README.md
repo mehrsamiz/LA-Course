@@ -2,7 +2,8 @@
 
 This exercise demonstrates dimensionality reduction using **Johnson–Lindenstrauss Lemma** and **Gaussian Random Projection** on the California Housing dataset.
 
-Output
+##  Output
+
 
 Prints minimum dimensions required for JL Lemma.
 
