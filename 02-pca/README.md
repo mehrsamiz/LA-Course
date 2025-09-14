@@ -2,7 +2,7 @@
 
 This exercise applies **PCA** via SVD on the California Housing dataset to reduce dimensions and visualize variance explained.
 
-##Output
+##  Output
 
 Cumulative variance plot.
 
