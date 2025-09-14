@@ -12,6 +12,10 @@ Comparison between original and reduced data.
 
 
 ![output plot](https://raw.githubusercontent.com/mehrsamiz/LA-Course/main/docs/pca2.png)
+
+after PCA:
+
+
 ![output plot](https://raw.githubusercontent.com/mehrsamiz/LA-Course/main/docs/pca1.png)
 
 ##  Run
