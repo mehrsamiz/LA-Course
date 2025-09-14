@@ -13,4 +13,4 @@ Comparison between original and reduced data.
 
 ##  Run
 ```bash
-python pca.py
+python space_reachability.py
