@@ -10,7 +10,7 @@ Compares Euclidean distances in original vs reduced space.
 
 Plots the relationship between eps and required dimensions.
 
-![output plot](docs/random_proj.png)
+![output plot](https://raw.githubusercontent.com/mehrsamiz/LA-Course/main/docs/random_proj.png)
 
 ## 🚀 Run
 ```bash
